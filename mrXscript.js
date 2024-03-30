@@ -3,22 +3,22 @@ $(document).ready(function(){
     var playlist = [{
         title:"D@Mn",
         artist:"Mr.X",
-        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        mp3:"assets/music/Test Final Mr X Final Message.mp3",
         poster: "assets/image/CYBERVENTURE LOGO.png"
       },{
         title:"i h0P3",
         artist:"Mr.X",
-        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        mp3:"assets/music/Test Final Mr X Final Message.mp3",
         poster: "assets/image/CYBERVENTURE LOGO.png"
       },{
         title:"tH!s w2s",
         artist:"Mr.X",
-        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        mp3:"assets/music/Test Final Mr X Final Message.mp3",
         poster: "assets/image/CYBERVENTURE LOGO.png"
       },{
         title:"j$T @ drEAM",
         artist:"Mr.X",
-        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        mp3:"assets/music/Test Final Mr X Final Message.mp3",
         poster: "assets/image/CYBERVENTURE LOGO.png"
     }];
   
