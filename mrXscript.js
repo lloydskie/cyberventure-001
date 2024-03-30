@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     var playlist = [{
-        title:"Damn",
+        title:"D@Mn",
         artist:"Mr.X",
         mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
         poster: "assets/image/CYBERVENTURE LOGO.png"
