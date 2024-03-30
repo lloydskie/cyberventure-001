@@ -1,6 +1,10 @@
 $(document).ready(function(){
 
     var playlist = [{
+        title:"Damn",
+        artist:"Mr.X",
+        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3"
+      },{
         title:"Hidden",
         artist:"Miaow",
         mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
