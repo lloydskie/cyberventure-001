@@ -3,7 +3,8 @@ $(document).ready(function(){
     var playlist = [{
         title:"Damn",
         artist:"Mr.X",
-        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3"
+        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        poster: "assets/image/CYBERVENTURE LOGO.png"
       },{
         title:"Hidden",
         artist:"Miaow",
