@@ -6,22 +6,20 @@ $(document).ready(function(){
         mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
         poster: "assets/image/CYBERVENTURE LOGO.png"
       },{
-        title:"Hidden",
-        artist:"Miaow",
-        mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-        oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
-        poster: "https://i.imgur.com/sCbrzQa.png"
+        title:"i h0P3",
+        artist:"Mr.X",
+        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        poster: "assets/image/CYBERVENTURE LOGO.png"
       },{
-        title:"Cro Magnon Man",
-        artist:"The Stark Palace",
-        mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-        oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
-        poster: "https://i.imgur.com/lXvsuBu.png"
+        title:"tH!s w2s",
+        artist:"Mr.X",
+        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        poster: "assets/image/CYBERVENTURE LOGO.png"
       },{
-        title:"Bubble",
-        m4a: "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
-        oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg",
-        poster: "https://i.imgur.com/klJKSVZ.jpg"
+        title:"j$T @ drEAM",
+        artist:"Mr.X",
+        mp3:"assets/music/LEMMiNO - Cipher (BGM).mp3",
+        poster: "assets/image/CYBERVENTURE LOGO.png"
     }];
   
     var cssSelector = {
